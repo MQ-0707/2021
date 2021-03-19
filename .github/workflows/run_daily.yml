@@ -16,10 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: MQ-0707/github-readme-stats@v1.1
-        with:
-          TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
+        uses: yihong0618/github-readme-stats@v1.1
 
       - name: Set up Python
         uses: actions/setup-python@v1

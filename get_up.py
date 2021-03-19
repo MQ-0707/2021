@@ -39,7 +39,7 @@ def get_today_get_up_status(issue):
 def make_get_up_message():
     sentence = get_one_sentence()
     now = pendulum.now(TIMEZONE)
-    is_get_up_early = 4 <= now.hour <= 6
+    is_get_up_early = 4 <= now.hour <= 7
     get_up_time = now.to_datetime_string()
     body = GET_UP_MESSAGE_TEMPLATE.format(get_up_time=get_up_time, sentence=sentence)
     return body, is_get_up_early
@@ -49,7 +49,7 @@ def get_get_up_issue(repo):
     return repo.get_issue(GET_UP_ISSUE_NUMBER)
 
 
-def main(github_token, repo_name, tele_token, tele_chat_id):
+def main(github_token, repo_name):
     u = login(github_token)
     repo = u.get_repo(repo_name)
     issue = get_get_up_issue(repo)
@@ -60,14 +60,6 @@ def main(github_token, repo_name, tele_token, tele_chat_id):
     body, is_get_up_early = make_get_up_message()
     if is_get_up_early:
         issue.create_comment(body)
-        # send to telegram
-        requests.post(
-            url="https://api.telegram.org/bot{0}/{1}".format(tele_token, "sendMessage"),
-            data={
-                "chat_id": tele_chat_id,
-                "text": body,
-            },
-        )
     else:
         print("You wake up late")
 
@@ -76,12 +68,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("github_token", help="github_token")
     parser.add_argument("repo_name", help="repo_name")
-    parser.add_argument("tele_token", help="tele_token")
-    parser.add_argument("tele_chat_id", help="tele_chat_id")
     options = parser.parse_args()
     main(
         options.github_token,
         options.repo_name,
-        options.tele_token,
-        options.tele_chat_id,
     )
