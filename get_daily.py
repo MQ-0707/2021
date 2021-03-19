@@ -71,6 +71,7 @@ if __name__ == "__main__":
     parser.add_argument("duolingo_user_name", help="duolingo_user_name")
     parser.add_argument("duolingo_password", help="duolingo_password")
     parser.add_argument("github_token", help="github_token")
+    parser.add_argument("repo_name", help="repo_name")
     options = parser.parse_args()
     # add more login auth info here
     login_auth_dict = {
