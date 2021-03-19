@@ -6,19 +6,13 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [扇贝](https://web.shanbay.com/web/users/ufewz/zone) | 941 (天) | 25 | YES |
-| [多邻国](https://www.duolingo.com/profile/yihong0618) | 693 (点) | 59 | NO |
-| [词场](https://twitter.com/yihong06181/status/1359040099107897344?s=20) | 260 (天) | 24 | NO |
-| [俯卧撑](https://github.com/yihong0618/2021/issues/5) | 2602 (个) | 2 | NO |
-| [花费](https://github.com/yihong0618/2021/issues/7) | 3294 (元) | 24 | NO |
-| [冥想](https://github.com/yihong0618/2021/issues/9) | 41 (分钟) | 0 | NO |
-| [早起](https://github.com/yihong0618/2021/issues/12) | 24 (天) | 24 | YES |
+
 
 <!--END_SECTION:my_number-->
 
 ## 跑步
 
-![](https://github.com/yihong0618/blog/blob/master/assets/github_2021.svg)
+![](https://github.com/MQ-0707/A_Nike_Runner/blob/master/assets/github.svg)
 
 
 ## 刷剧
