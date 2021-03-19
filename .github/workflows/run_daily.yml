@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: yihong0618/github-readme-stats@v1.1
+        uses: MQ-0707/github-readme-stats@v1.1
 
       - name: Set up Python
         uses: actions/setup-python@v1
