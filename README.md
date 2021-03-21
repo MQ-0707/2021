@@ -14,9 +14,6 @@
 
 ![](https://github.com/MQ-0707/A_Nike_Runner/blob/master/assets/github.svg)
 
-## 我的 GitHub
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MQ-0707&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ## 刷剧
 
 <!--START_SECTION:my_drama-->
