@@ -8,10 +8,10 @@
  | ---- | ---- | ---- | ---- |
 | [扇贝](https://web.shanbay.com/web/users/mq0707/zone) | 41 (天) | 0 | NO |
 | [多邻国](https://www.duolingo.com/profile/MQU3K9) | 12 (点) | 1 | NO |
-| [俯卧撑](https://github.com/MQ-0707/2021/issues/10) | 20 (个) | 1 | NO |
+| [俯卧撑](https://github.com/MQ-0707/2021/issues/10) | 30 (个) | 2 | YES |
 | [花费](https://github.com/MQ-0707/2021/issues/8) | 36 (元) | 0 | NO |
 | [冥想](https://github.com/MQ-0707/2021/issues/6) | 1 (分钟) | 1 | NO |
-| [早起](https://github.com/MQ-0707/2021/issues/3) | 1 (天) | 1 | NO |
+| [早起](https://github.com/MQ-0707/2021/issues/3) | 2 (天) | 2 | YES |
 
 <!--END_SECTION:my_number-->
 
