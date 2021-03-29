@@ -7,12 +7,11 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [扇贝](https://web.shanbay.com/web/users/mq0707/zone) | 41 (天) | 0 | NO |
-| [多邻国](https://www.duolingo.com/profile/MQU3K9) | 55 (点) | 0 | NO |
+| [多邻国](https://www.duolingo.com/profile/MQU3K9) | 25 (点) | 1 | YES |
 | [俯卧撑](https://github.com/MQ-0707/2021/issues/10) | 30 (个) | 0 | NO |
 | [花费](https://github.com/MQ-0707/2021/issues/8) | 55 (元) | 0 | NO |
 | [冥想](https://github.com/MQ-0707/2021/issues/6) | 1 (分钟) | 0 | NO |
-| [早起](https://github.com/MQ-0707/2021/issues/3) | 5 (天) | 1 | YES |
-| [骑行](https://github.com/MQ-0707/2021/issues/14) | 0 (公里) | 1 | YES |
+| [早起](https://github.com/MQ-0707/2021/issues/3) | 3 (天) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
