@@ -53,8 +53,8 @@ LABEL_DAILY_DICT = {
     "俯卧撑": [PUSHUP_LABEL_LIST, int, sum],
     "花费": [MONEY_LABEL_LIST, float, sum],
     "冥想": [MEDITATION_LABEL_LIST, int, sum],
-    "早起": [MORNING_LABEL_LIST, len, len],  # Do Nothing
     "骑行": [RIDE_LABEL_LIST, float, sum],
+    "早起": [MORNING_LABEL_LIST, len, len],  # Do Nothing
     
 }
 
