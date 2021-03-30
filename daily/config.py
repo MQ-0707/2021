@@ -28,6 +28,9 @@ MEDITATION_LABEL_LIST = [
 MORNING_LABEL_LIST = [
     "Morning",
 ]
+RIDE_LABEL_LIST = [
+    "Ride",
+]
 # MY_BLOG_REPO = ""
 GITHUB_README_COMMENTS = (
     "(<!--START_SECTION:{name}-->\n)(.*)(<!--END_SECTION:{name}-->\n)"
@@ -41,6 +44,7 @@ LABEL_DICT = {
     "Drama": {"label_list": DRAMA_LABEL_LIST, "comment_name": "my_drama"},
     "Bangumi": {"label_list": BANGUMI_LABEL_LIST, "comment_name": "my_bangumi"},
     "Game": {"label_list": GAME_LABEL_LIST, "comment_name": "my_game"},
+    "Ride": {"label_list": RIDE_LABEL_LIST, "comment_name": "my_ride"},
 }
 
 ##### COMMENTS DAILY ######
@@ -50,6 +54,8 @@ LABEL_DAILY_DICT = {
     "花费": [MONEY_LABEL_LIST, float, sum],
     "冥想": [MEDITATION_LABEL_LIST, int, sum],
     "早起": [MORNING_LABEL_LIST, len, len],  # Do Nothing
+    "骑行": [RIDE_LABEL_LIST, float, sum],
+    
 }
 
 ##### SHANBAY ######
