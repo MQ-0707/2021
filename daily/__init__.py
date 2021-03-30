@@ -19,4 +19,5 @@ MY_STATUS_DICT_FROM_COMMENTS = {
     "花费": {"daily_func": get_info_from_issue_comments, "unit_str": " (元)"},
     "冥想": {"daily_func": get_info_from_issue_comments, "unit_str": " (分钟)"},
     "早起": {"daily_func": get_info_from_issue_comments, "unit_str": " (天)"},
+    "骑行": {"daily_func": get_info_from_issue_comments, "unit_str": " (公里)"},
 }
