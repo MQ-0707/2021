@@ -50,5 +50,5 @@ def get_info_from_issue_comments(u, repo_name, labels, map_func, reduce_func=sum
             break
         streak += 1
     # format to int
-    data = int(reduce_func(data_list))
+    data = reduce_func(data_list)
     return data, streak, is_today_check, url
