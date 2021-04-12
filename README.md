@@ -56,7 +56,7 @@
 <!--START_SECTION:my_cook-->
 | Name | First_date | Last_date | Times | 
  | ---- | ---- | ---- | ---- |
-| 小米粥 | [2021-03-21](https://github.com/MQ-0707/2021/issues/13#issuecomment-803503236) | [2021-03-21](https://github.com/MQ-0707/2021/issues/13#issuecomment-803503236) | 1 |
+| 小米粥 | [2021-03-21](https://github.com/MQ-0707/2021/issues/13#issuecomment-803503236) | [2021-04-12](https://github.com/MQ-0707/2021/issues/13#issuecomment-817418823) | 2 |
 | 豆角焖面 | [2021-03-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-808662016) | [2021-03-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-808662016) | 1 |
 
 <!--END_SECTION:my_cook-->
