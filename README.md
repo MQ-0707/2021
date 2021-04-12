@@ -35,8 +35,8 @@
 ## 观影
 
 <!--START_SECTION:my_movie-->
-- [《正义联盟导演剪辑版》](https://github.com/MQ-0707/2021/issues/12#issuecomment-802710376)　　　　　　　　　　　　　　　　　　　　-->　2021-03-19
-- [今天的起床时间是--2021-03-24 07:50:24.](https://github.com/MQ-0707/2021/issues/12#issuecomment-805356087)　-->　2021-03-23
+- [《正义联盟导演剪辑版》](https://github.com/MQ-0707/2021/issues/12#issuecomment-802710376)　-->　2021-03-19
+- [《勇士》](https://github.com/MQ-0707/2021/issues/12#issuecomment-817419186)　　　　　　　　-->　2021-04-12
 <!--END_SECTION:my_movie-->
 
 ## 游戏
