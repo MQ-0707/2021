@@ -39,6 +39,7 @@
 - [《勇士》](https://github.com/MQ-0707/2021/issues/12#issuecomment-817419186)　　　　　　　　-->　2021-04-12
 - [《hello，树先生》](https://github.com/MQ-0707/2021/issues/12#issuecomment-837705558)　-->　2021-05-11
 - [《长安道》](https://github.com/MQ-0707/2021/issues/12#issuecomment-837710771)　　　　　　　-->　2021-05-11
+- [《追凶者也》](https://github.com/MQ-0707/2021/issues/12#issuecomment-837713399)　　　　　　-->　2021-05-11
 <!--END_SECTION:my_movie-->
 
 ## 游戏
