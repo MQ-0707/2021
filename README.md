@@ -41,6 +41,7 @@
 - [《长安道》](https://github.com/MQ-0707/2021/issues/12#issuecomment-837710771)　　　　　　　-->　2021-05-11
 - [《追凶者也》](https://github.com/MQ-0707/2021/issues/12#issuecomment-837713399)　　　　　　-->　2021-05-11
 - [《一个人的奥林匹克》](https://github.com/MQ-0707/2021/issues/12#issuecomment-837719044)　　-->　2021-05-11
+- [《珍珠港》](https://github.com/MQ-0707/2021/issues/12#issuecomment-839361515)　　　　　　　-->　2021-05-12
 <!--END_SECTION:my_movie-->
 
 ## 游戏
