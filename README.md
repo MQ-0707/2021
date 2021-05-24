@@ -30,7 +30,7 @@
 ## 追番
 
 <!--START_SECTION:my_bangumi-->
-- [1](https://github.com/MQ-0707/2021/issues/9#issuecomment-803825356)　-->　2021-03-22
+- [向往的生活](https://github.com/MQ-0707/2021/issues/9#issuecomment-846671636)　-->　2021-05-24
 <!--END_SECTION:my_bangumi-->
 
 ## 观影
