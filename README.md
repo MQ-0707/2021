@@ -43,6 +43,7 @@
 - [《一个人的奥林匹克》](https://github.com/MQ-0707/2021/issues/12#issuecomment-837719044)　　-->　2021-05-11
 - [《珍珠港》](https://github.com/MQ-0707/2021/issues/12#issuecomment-839361515)　　　　　　　-->　2021-05-12
 - [《速度与激情9》](https://github.com/MQ-0707/2021/issues/12#issuecomment-846669359)　　　　-->　2021-05-24
+- [《速度与激情5》](https://github.com/MQ-0707/2021/issues/12#issuecomment-846669726)　　　　-->　2021-05-24
 <!--END_SECTION:my_movie-->
 
 ## 游戏
