@@ -47,6 +47,7 @@
 - [《速度与激情5》](https://github.com/MQ-0707/2021/issues/12#issuecomment-846669726)　　　　　　-->　2021-05-24
 - [《疯狂麦克斯4:狂暴之路》](https://github.com/MQ-0707/2021/issues/12#issuecomment-846670116)　-->　2021-05-24
 - [《玩命快递1》](https://github.com/MQ-0707/2021/issues/12#issuecomment-860176349)　　　　　　　-->　2021-06-13
+- [《玩命快递2》](https://github.com/MQ-0707/2021/issues/12#issuecomment-860179095)　　　　　　　-->　2021-06-13
 <!--END_SECTION:my_movie-->
 
 ## 游戏
