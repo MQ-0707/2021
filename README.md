@@ -73,6 +73,8 @@
 | 豆角焖面 | [2021-03-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-808662016) | [2021-03-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-808662016) | 1 |
 | 康师傅红烧牛肉面 | [2021-06-17](https://github.com/MQ-0707/2021/issues/13#issuecomment-862879370) | [2021-06-17](https://github.com/MQ-0707/2021/issues/13#issuecomment-862879370) | 1 |
 | 韭菜炒鸡蛋 | [2021-06-18](https://github.com/MQ-0707/2021/issues/13#issuecomment-863997134) | [2021-06-18](https://github.com/MQ-0707/2021/issues/13#issuecomment-863997134) | 1 |
+| 泡面 | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161350) | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161350) | 1 |
+| 黄瓜炒火腿 | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161415) | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161415) | 1 |
 
 <!--END_SECTION:my_cook-->
 
