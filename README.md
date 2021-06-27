@@ -50,6 +50,7 @@
 - [《玩命快递1》](https://github.com/MQ-0707/2021/issues/12#issuecomment-860176349)　　　　　　　-->　2021-06-13
 - [《玩命快递2》](https://github.com/MQ-0707/2021/issues/12#issuecomment-860179095)　　　　　　　-->　2021-06-13
 - [《日落》](https://github.com/MQ-0707/2021/issues/12#issuecomment-862878951)　　　　　　　　　　-->　2021-06-17
+- [《洛奇1》](https://github.com/MQ-0707/2021/issues/12#issuecomment-869162533)　　　　　　　　　-->　2021-06-27
 <!--END_SECTION:my_movie-->
 
 ## 游戏
