@@ -26,6 +26,7 @@
 - [创世纪](https://github.com/MQ-0707/2021/issues/7#issuecomment-803507365)　-->　2021-03-21
 - [生活家](https://github.com/MQ-0707/2021/issues/7#issuecomment-846671269)　-->　2021-05-24
 - [猎狼者](https://github.com/MQ-0707/2021/issues/7#issuecomment-860182955)　-->　2021-06-13
+- [叛逆者](https://github.com/MQ-0707/2021/issues/7#issuecomment-869163379)　-->　2021-06-27
 <!--END_SECTION:my_drama-->
 
 ## 追番
