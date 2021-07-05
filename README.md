@@ -11,7 +11,7 @@
 | [俯卧撑](https://github.com/MQ-0707/2021/issues/10) | 135 (个) | 0 | NO |
 | [花费](https://github.com/MQ-0707/2021/issues/8) | 89.3 (元) | 0 | NO |
 | [冥想](https://github.com/MQ-0707/2021/issues/6) | 1 (分钟) | 0 | NO |
-| [早起](https://github.com/MQ-0707/2021/issues/3) | 15 (天) | 2 | NO |
+| [早起](https://github.com/MQ-0707/2021/issues/3) | 15 (天) | 0 | NO |
 | [骑行](https://github.com/MQ-0707/2021/issues/14) | 47.790000000000006 (公里) | 0 | NO |
 
 <!--END_SECTION:my_number-->
