@@ -71,8 +71,7 @@
 <!--START_SECTION:my_cook-->
 | Name | First_date | Last_date | Times | 
  | ---- | ---- | ---- | ---- |
-| 小米粥 | [2021-03-21](https://github.com/MQ-0707/2021/issues/13#issuecomment-803503236) | [2021-04-12](https://github.com/MQ-0707/2021/issues/13#issuecomment-817418823) | 2 |
-| 豆角焖面 | [2021-03-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-808662016) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115720) | 2 |
+| 小米粥 | [2021-03-21](https://github.com/MQ-0707/2021/issues/13#issuecomment-803503236) | [2021-03-21](https://github.com/MQ-0707/2021/issues/13#issuecomment-803503236) | 1 |
 | 康师傅红烧牛肉面 | [2021-06-17](https://github.com/MQ-0707/2021/issues/13#issuecomment-862879370) | [2021-06-17](https://github.com/MQ-0707/2021/issues/13#issuecomment-862879370) | 1 |
 | 韭菜炒鸡蛋 | [2021-06-18](https://github.com/MQ-0707/2021/issues/13#issuecomment-863997134) | [2021-06-18](https://github.com/MQ-0707/2021/issues/13#issuecomment-863997134) | 1 |
 | 泡面 | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161350) | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161350) | 1 |
@@ -83,6 +82,9 @@
 | 手撕包菜 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115667) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115667) | 1 |
 | 黄瓜火腿 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115684) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115684) | 1 |
 | 西红柿鸡蛋汤 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115700) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115700) | 1 |
+| 豆角焖面 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115720) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115720) | 1 |
+| 鲫鱼汤 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115750) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115750) | 1 |
+| 饺子 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115779) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115779) | 1 |
 
 <!--END_SECTION:my_cook-->
 
