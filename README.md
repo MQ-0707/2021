@@ -74,7 +74,6 @@
 | 小米粥 | [2021-03-21](https://github.com/MQ-0707/2021/issues/13#issuecomment-803503236) | [2021-03-21](https://github.com/MQ-0707/2021/issues/13#issuecomment-803503236) | 1 |
 | 康师傅红烧牛肉面 | [2021-06-17](https://github.com/MQ-0707/2021/issues/13#issuecomment-862879370) | [2021-06-17](https://github.com/MQ-0707/2021/issues/13#issuecomment-862879370) | 1 |
 | 韭菜炒鸡蛋 | [2021-06-18](https://github.com/MQ-0707/2021/issues/13#issuecomment-863997134) | [2021-06-18](https://github.com/MQ-0707/2021/issues/13#issuecomment-863997134) | 1 |
-| 泡面 | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161350) | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161350) | 1 |
 | 黄瓜炒火腿 | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161415) | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161415) | 1 |
 | 炒细粉 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115565) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115565) | 1 |
 | 炒鸡 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115588) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115588) | 1 |
