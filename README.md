@@ -77,6 +77,9 @@
 | 韭菜炒鸡蛋 | [2021-06-18](https://github.com/MQ-0707/2021/issues/13#issuecomment-863997134) | [2021-06-18](https://github.com/MQ-0707/2021/issues/13#issuecomment-863997134) | 1 |
 | 泡面 | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161350) | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161350) | 1 |
 | 黄瓜炒火腿 | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161415) | [2021-06-27](https://github.com/MQ-0707/2021/issues/13#issuecomment-869161415) | 1 |
+| 炒细粉 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115565) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115565) | 1 |
+| 炒鸡 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115588) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115588) | 1 |
+| 可乐鸡翅 | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115642) | [2021-12-26](https://github.com/MQ-0707/2021/issues/13#issuecomment-1001115642) | 1 |
 
 <!--END_SECTION:my_cook-->
 
